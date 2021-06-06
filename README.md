@@ -1,2 +1,2 @@
-# SubmissionWebsite.github.io
+# SubmissionWebsite
 Designed a website for submissions.
